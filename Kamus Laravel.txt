@@ -1,0 +1,2 @@
+Membuat Controller:
+C:\xampp\htdocs\.....\php artisan make:controller namacontroller --plain
